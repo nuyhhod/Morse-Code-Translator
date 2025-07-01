@@ -47,4 +47,4 @@ To:
       lcd.setCursor(0, 0);
       lineLength = 0; 
     }
-#### Comment: Previously, I was only using the first row of the LCD screen. My next implementation is to make a scrolling LCD screen to have a better user experience.  
+#### Comment: Previously, I was only using the first row of the LCD screen. My next implementation is to make a scrolling LCD screen to have a better user experience.
