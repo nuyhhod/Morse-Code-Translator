@@ -6,7 +6,7 @@ This project is an interactive **Morse code encoder and decoder** using an **Ard
 // Make a Youtube Video on how to make it and demonstration
 
 ## Circuit Diagram and Wiring
-!(https://github.com/nuyhhod/Morse-Code-Translator/blob/e09e28e59006fffb9f1b7c16765dbb7a06126850/Morse%20Code%20Translator.pdf)
+![Schematic of Circuit](https://github.com/nuyhhod/Morse-Code-Translator/blob/9d123ddded6b811785c06bc755c62aac9147b610/image_2025-07-01_003110124.png)
 
 ![TinkerCAD Diagram of Wiring of Arduino and All Components](https://github.com/nuyhhod/Morse-Code-Translator/blob/c11989aae97acd99fd560e3365566f5302199113/Copy%20of%20Slide%20Switch.png)
 
