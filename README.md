@@ -6,8 +6,7 @@ This project is an interactive **Morse code encoder and decoder** using an **Ard
 // Make a Youtube Video on how to make it and demonstration
 
 ## Circuit Diagram and Wiring
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]("C:\Users\ellio\Downloads\Morse Code Translator.pdf")
-
+![Diagram of Circuit and Wiring of Ardruino and all components]((https://github.com/nuyhhod/Morse-Code-Translator/blob/c11989aae97acd99fd560e3365566f5302199113/Copy%20of%20Slide%20Switch.png))
 
 
 ## TinkerCAD Link
