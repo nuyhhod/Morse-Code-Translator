@@ -69,5 +69,4 @@ To:
 
 ### 12:57 AM PST 
 #### Completed README.md document
-#### **Note: Next project to make a portfolio website for my projects. Learn to better use Github for better access to showing off my projects.
 
