@@ -18,7 +18,7 @@ https://www.tinkercad.com/things/htvYGKYqThV-morse-code-translator
 - Decoding Morse code entered via a **push button**
 - Real-time **audio (buzzer)** and **visual (LED)** Morse feedback
 - **Decoded English characters** displayed on:
-  - LCD screen (16x2, parallel mode)
+  - LCD screen (16x2, parallel mode) 
   - Serial monitor
 - **Morse encoding**: Type letters/numbers via Serial to see Morse output 
 - Automatically detects:
