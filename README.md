@@ -48,7 +48,7 @@ https://www.tinkercad.com/things/htvYGKYqThV-morse-code-translator
 | Breadboard + Wires | For connections                |
 
 
-## Wiring Guide
+## Wiring Guide for LCD Pins
 
 | LCD Pin | Arduino Pin | Description         |
 |---------|-------------|---------------------|
@@ -64,13 +64,16 @@ https://www.tinkercad.com/things/htvYGKYqThV-morse-code-translator
 | V0      | Potentiometer middle pin |Controls Visibility|
 | A (LED+) | 5V via 220Ω | LCD backlight      |
 | K (LED-) | GND         | LCD backlight GND  |
-|-----------------------------------------------|
+
+## Wiring Guide for Electronic Components
+
 |Components | Arduino Pin | Description         |
 |-----------|-------------|---------------------|
 | Potentiometer (middle pin) | LCD V0 | Controls Visibility |
 | Buzzer     |   10        | Sound               |
 | Button     |  8        | On/Off               |
 | LED        | 13          | Light to Output Visual      |
+
 ## Controls (How to use the )
 
 - **Hold the button**:
