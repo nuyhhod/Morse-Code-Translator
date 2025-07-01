@@ -33,7 +33,6 @@ void setup() {
 ### 12:01 AM PST
 #### Added to README.md document
 
-
 ### 12:37 AM PST
 Changed:
     if (lineLength >= 16) {
@@ -42,7 +41,7 @@ Changed:
       lineLength = 0;
     }
 
-To:
+To: 
     if (lineLength >= 32) { // utilizes both rows on the LCD screen
       lcd.clear();
       lcd.setCursor(0, 0);
