@@ -1,9 +1,11 @@
-  //morse code decoder and encoder
+//Morse Code Decoder and Encoder
+/* This Arduino-based project converts text to Morse code and vice versa using an LED, speaker, and button input. 
+Users can type letters via the serial monitor to see Morse code signals or input Morse via a button to decode messages. 
+Decoded output is displayed on an LCD screen. */
 
+  #include <LiquidCrystal.h>  //uses an LC Display with no I2C  
 
-  #include <LiquidCrystal.h>  //uses an LC Display with no I2C
-
-  LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+  LiquidCrystal lcd(12, 11, 5, 4, 3, 2); //Pins for LCD display
   int buttonPin = 8; // Pin for button input 
   int tonePin = 10; // Pin for speaker or buzzer
   int toneFreq = 1000;
