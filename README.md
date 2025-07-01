@@ -2,6 +2,17 @@
 
 This project is an interactive **Morse code encoder and decoder** using an **Arduino Uno**, **LCD screen (parallel, non-I2C)**, **LED**, **buzzer** (optional), and **push button**. It allows the user to input Morse code via a button, get real-time visual and audio feedback, and see the decoded characters on the LCD screen and Serial Monitor. You can also type characters via Serial to see them encoded in Morse using LED and sound.
 
+## Demonstration
+// Make a Youtube Video on how to make it and demonstration
+
+## Circuit Diagram and Wiring
+
+
+## TinkerCAD Link
+https://www.tinkercad.com/things/htvYGKYqThV-morse-code-translator 
+
+
+
 ## Features 
 - Encode Morse code by typing text into the **Serial Monitor**
 - Decoding Morse code entered via a **push button**
