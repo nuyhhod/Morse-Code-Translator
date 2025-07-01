@@ -6,6 +6,8 @@ This project is an interactive **Morse code encoder and decoder** using an **Ard
 // Make a Youtube Video on how to make it and demonstration
 
 ## Circuit Diagram and Wiring
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]("C:\Users\ellio\Downloads\Morse Code Translator.pdf")
+
 
 
 ## TinkerCAD Link
