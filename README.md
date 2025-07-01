@@ -83,5 +83,5 @@ https://www.tinkercad.com/things/htvYGKYqThV-morse-code-translator
 
 ## Author 
 Elliot Kang 
-Education: Electrial Engineering at Virginia Tech 
-Linkedin: https://www.linkedin.com/in/elliotkang
+- Education: Electrial Engineering at Virginia Tech 
+- Linkedin: https://www.linkedin.com/in/elliotkang
