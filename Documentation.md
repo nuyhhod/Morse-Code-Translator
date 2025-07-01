@@ -1,6 +1,24 @@
 # Documentation 
 
 ## 06/30/2025
+#### Created project on Github and started on project planning.
+
+### 3:16 PM PST
+#### Completed project planning and started wiring.
+#### Writing down parts list and searching documentation for each component. 
+
+### 6:03 PM PST
+#### Wired all pins to LCD screen successfully. 
+#### Wired all pins to LED lights, push button, and potentiometer successfully.
+#### Note to buy buzzer for audio output for morse code. 
+
+### 6:32 PM PST 
+#### Started code using Arduino IDE.
+
+### 9:56 PM PST 
+#### Completed code. 
+#### Searching for bugs and working towards optimization.
+
 ### 10:22 PM PST
 Added:
     else {
@@ -27,7 +45,7 @@ void setup() {
     noTone(tonePin);
     delay(600);
 .... }
-#### Comment: I forgot I put a tester to verify that the buzzer and LEDs were working and it is no longer needed as it works as expected. 
+#### Comment: I forgot I put a tester to verify that the buzzer and LEDs were working and it is no longer needed as it works as expected. *Tested Buzzer using TinkerCAD because I don't have a buzzer on me right now. 
 
 ## 07/01/2025
 ### 12:01 AM PST
@@ -48,3 +66,6 @@ To:
       lineLength = 0; 
     }
 #### Comment: Previously, I was only using the first row of the LCD screen. My next implementation is to make a scrolling LCD screen to have a better user experience.
+
+### 12:57 AM PST 
+#### Completed README.md document
