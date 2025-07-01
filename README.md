@@ -1,6 +1,6 @@
 # Morse-Code-Decoder
-Project Start: 06/30/2025
-Project Completion: Ongoing
+- Project Start: 06/30/2025
+- Project Completion: Ongoing
 
 This project is an interactive **Morse code encoder and decoder** using an **Arduino Uno**, **LCD screen (parallel, non-I2C)**, **LED**, **buzzer** (optional), and **push button**. It allows the user to input Morse code via a button, get real-time visual and audio feedback, and see the decoded characters on the LCD screen and Serial Monitor. You can also type characters via Serial to see them encoded in Morse using LED and sound.
 
