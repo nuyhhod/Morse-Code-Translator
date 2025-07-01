@@ -6,15 +6,12 @@ This project is an interactive **Morse code encoder and decoder** using an **Ard
 // Make a Youtube Video on how to make it and demonstration
 
 ## Circuit Diagram and Wiring
-![Schematic of Circuit](https://github.com/nuyhhod/Morse-Code-Translator/blob/9d123ddded6b811785c06bc755c62aac9147b610/image_2025-07-01_003110124.png)
+![Schematic of Circuit](https://github.com/nuyhhod/Morse-Code-Translator/blob/9d123ddded6b811785c06bc755c62aac9147b610/image_2025-07-01_003110124.png) 
 
 ![TinkerCAD Diagram of Wiring of Arduino and All Components](https://github.com/nuyhhod/Morse-Code-Translator/blob/c11989aae97acd99fd560e3365566f5302199113/Copy%20of%20Slide%20Switch.png)
 
-
 ## TinkerCAD Link
 https://www.tinkercad.com/things/htvYGKYqThV-morse-code-translator 
-
-
 
 ## Features 
 - Encode Morse code by typing text into the **Serial Monitor**
@@ -23,7 +20,7 @@ https://www.tinkercad.com/things/htvYGKYqThV-morse-code-translator
 - **Decoded English characters** displayed on:
   - LCD screen (16x2, parallel mode)
   - Serial monitor
-- **Morse encoding**: Type letters/numbers via Serial to see Morse output
+- **Morse encoding**: Type letters/numbers via Serial to see Morse output 
 - Automatically detects:
   - End of character (pause ≥ 720ms)
   - End of word (pause ≥ 1680ms)
